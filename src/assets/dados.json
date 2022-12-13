@@ -1,0 +1,24 @@
+{
+  "produtos": [
+    {
+      "id": 2,
+      "produto": "Feijão",
+      "quant": "5k"
+    },
+    {
+      "id": 3,
+      "produto": "Macarrão",
+      "quant": "20"
+    },
+    {
+      "produto": "Carne",
+      "quant": "2kg",
+      "id": 4
+    },
+    {
+      "produto": "Coca Cola",
+      "quant": "2 litros",
+      "id": 5
+    }
+  ]
+}
